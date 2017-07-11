@@ -28,4 +28,4 @@ OS: Ubuntu 16.04.2 LTS
 
 NVR Software: Version 3.7.1 ( https://www.ubnt.com/download/unifi-video/unifi-nvr )
 
-# direct link: ( https://dl.ubnt.com/firmwares/unifi-video/3.7.1/unifi-video_3.7.1~Ubuntu16.04_amd64.deb )
+   #direct link: ( https://dl.ubnt.com/firmwares/unifi-video/3.7.1/unifi-video_3.7.1~Ubuntu16.04_amd64.deb )
